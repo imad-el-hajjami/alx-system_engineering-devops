@@ -1,0 +1,2 @@
+#!/bin/bahs
+chown -h vincent:staff _hello
